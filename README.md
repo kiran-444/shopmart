@@ -35,7 +35,7 @@ This project allows users to add, edit, delete, and view product details with ca
 
 Displays all products with category filter on the left side.
 
-![Home Page](./home-page.png)
+![Home Page](./screenshots/home-page.png)
 
 ---
 
